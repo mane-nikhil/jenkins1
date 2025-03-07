@@ -3,5 +3,6 @@ public class Main {
     System.out.println("jenkin 1");
     System.out.println("hello");
     System.out.println("add new line");
+    Student s = new Student();
   }
 }
